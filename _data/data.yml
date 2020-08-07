@@ -175,34 +175,44 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python - 1 Year
+      - name: Python
+        exp: 1 Year
         level: 90%
 
-      - name: Data Mining - 1 Year
+      - name: Data Mining
+        exp: 1 Year
         level: 70%
 
-      - name: Big Data/Hadoop/MapReduce - 8 Months
+      - name: Big Data/Hadoop/MapReduce
+        exp: 8 Months
         level: 70%
 
-      - name: Spark - 8 Months
+      - name: Spark
+        exp: 8 Months
         level: 70%
 
-      - name: DB2 - 3 Years
+      - name: DB2
+        exp: 3 Years
         level: 60%
 
-      - name: Haskell - 1 Year
+      - name: Haskell
+        exp: 1 Year
         level: 50%
         
-      - name: TensorFlow - 3 Months
+      - name: TensorFlow
+        exp: 3 Months
         level: 20%
         
-      - name: Java - 1.5 Years
+      - name: Java
+        exp: 1.5 Years
         level: 20%
         
-      - name: C/C++ - 1.5 Years
+      - name: C/C++
+        exp: 1.5 Years
         level: 20%
         
-      - name: Shell Scripting - 2 Years
+      - name: Shell Scripting
+        exp: 2 Years
         level: 30%
 
 # footer: >
